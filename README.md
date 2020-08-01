@@ -11,5 +11,5 @@ every run would check if the same binary file already
 exist in the cache folder. It would only download them from
 github not the cache.  
 ### Run
-`python some_bin_path`
+`python3 some_bin_path`
 some_bin_path is where you want to put binary files to.
