@@ -1,6 +1,6 @@
 ## Script to install hls from github release
 ### Idea
-Install prebuild all versions of hls with ease
+Install prebuild all versions of [haskell-language-server](https://github.com/haskell/haskell-language-server) with ease
 ### Description
 Simple script to download hls binaries from github releases
 It first download all the files into execute path's cache folder unzip it
